@@ -5,16 +5,14 @@
 
 <!-- 타이핑 애니메이션 -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=🔐+Security+Student;🛡️+System+%26+Network+Hacker;🐍+Python+%2F+C+Developer;🎯+Always+Learning%2C+Always+Breaking" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=600&lines=Security+Student;System+%26+Network+Hacker;Python+%2F+C+Developer;Always+Learning%2C+Always+Breaking" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <!-- 소개 -->
 <div align="center">
-  <p>보안에 관심을 가지고 열심히 공부하고 있는 학생입니다<br/>
+  <p>보안에 관심을 가지고 열심히 공부하고 있는 학생입니다 🌱<br/></p>
 </div>
 
 ---
