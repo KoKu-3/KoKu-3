@@ -97,11 +97,7 @@
 
 <div align="center">
 
-<!-- 백준 solved.ac 프로필 (ID 변경 필요) -->
-<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID" /> -->
-
-![CTF](https://img.shields.io/badge/CTF-Player-00ff88?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Wargame](https://img.shields.io/badge/Wargame-Challenger-ff6b6b?style=for-the-badge&logo=target&logoColor=white)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=babodong2" />
 
 </div>
 
