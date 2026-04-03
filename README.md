@@ -14,7 +14,7 @@
 
 <!-- 소개 -->
 <div align="center">
-  <p>보안에 관심을 가지고 열심히 공부하고 있는 학생입니다 🌱<br/>
+  <p>보안에 관심을 가지고 열심히 공부하고 있는 학생입니다<br/>
 </div>
 
 ---
@@ -81,14 +81,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KoKu-3&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoKu-3&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&text_color=ffffff" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_ID&theme=github-dark-blue&border=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KoKu-3&theme=github-dark-blue&border=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" />
 </div>
 
 ---
