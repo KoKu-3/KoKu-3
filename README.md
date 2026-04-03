@@ -1,105 +1,48 @@
-<!-- 타이핑 애니메이션 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=600&lines=Security+Student;System+%26+Network+Hacker;Python+%2F+C+Developer;Always+Learning%2C+Always+Breaking" alt="Typing SVG" />
-</div>
+# 🛡️ Security Consultant Candidate | KoKu-3
 
-<br/>
-
-<!-- 소개 -->
-<div align="center">
-  <p>보안에 관심을 가지고 열심히 공부하고 있는 학생입니다 🌱<br/></p>
-</div>
+> **"기술적 이해를 바탕으로 비즈니스 리스크를 관리하는 예비 보안 컨설턴트입니다."** > 가천대학교 스마트보안학과에서 보안의 기초를 다지고, 다양한 실습을 통해 실무 역량을 배양하고 있습니다.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🔐 Technical Skills
-<div align="center">
-
-![System Hacking](https://img.shields.io/badge/System%20Hacking-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network%20Security-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-8B0000?style=for-the-badge&logo=gnu&logoColor=white)
-
-</div>
-
-### 💻 Languages
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-</div>
-
-### 🔧 Tools
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-FF6600?style=for-the-badge&logo=gnu&logoColor=white)
-
-</div>
+### 🎓 Education & Experience
+* **가천대학교 (Gachon Univ.)** | 스마트보안학과 재학 (2022.03 ~ 현재)
+* **대한민국 육군 (ROK Army)** | 병장 만기전역 (군필) 🇰🇷
+* **목포대학교 정보보호영재교육원** | 제8기 고등 전문B 과정 수료 (2021.03 ~ 2021.11)
 
 ---
 
-## 🎓 Education
+### 🛠️ Core Capabilities
+**`Consulting & Compliance`**
+* 정보보호 및 개인정보보호 관리체계(ISMS-P) 기초 이론 학습
+* 주요 정보통신망법 및 개인정보 보호법 조항 이해
+* 보안 사고 분석 및 대응 가이드라인 작성 역량
 
-<table align="center">
-  <tr>
-    <td align="center" width="80">🏫</td>
-    <td>
-      <strong>가천대학교 스마트보안학과</strong><br/>
-      <sub>2022.03 ~ 재학 중</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">🏆</td>
-    <td>
-      <strong>목포대 정보보호영재교육원 고등 전문B 8기 수료</strong><br/>
-      <sub>2021</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">🪖</td>
-    <td>
-      <strong>대한민국 육군 병장 만기전역</strong><br/>
-      <sub>2025년 전역</sub>
-    </td>
-  </tr>
-</table>
+**`Technical Skills`**
+* **Network:** TCP/IP 프로토콜 분석 및 패킷 스니핑 (Wireshark)
+* **Web:** OWASP Top 10 기반 취약점 진단 기초 (Burp Suite)
+* **OS/DB:** Linux/Windows 서버 보안 설정 및 SQL 쿼리 기초
+* **Language:** Python, C, C++ (보안 도구 제작 및 자동화)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KoKu-3&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoKu-3&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&text_color=ffffff" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KoKu-3&theme=github-dark-blue&border=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" />
-</div>
+### 🚀 Roadmap for BoB 16th
+- [ ] **Step 1:** 정보보안기사 필기 핵심 이론 완독 및 정리
+- [ ] **Step 2:** 최신 보안 이슈 기반 컨설팅 리포트 5건 작성
+- [ ] **Step 3:** BoB 16기 보안 컨설팅 트랙 합격 및 프로젝트 수행
 
 ---
 
-## 🏅 BOJ & CTF
-
-<div align="center">
-
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=babodong2" />
-
-</div>
+### 📂 Main Repositories
+* [Security-Archive](https://github.com/KoKu-3/Security-Archive) : 전공 지식 및 보안 이론 정리
+* [Consulting-Case-Study](https://github.com/KoKu-3/Consulting-Case-Study) : 취약점 분석 및 컨설팅 보고서 모음
+* [Academic-Projects](https://github.com/KoKu-3/Academic-Projects) : 학과 팀 프로젝트 및 개인 과제 아카이브
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=footer" width="100%"/>
-</div>
+### 📫 Contact & Channels
+* **Email:** [본인의 이메일 주소 입력]
+* **Blog:** [운영 중인 블로그가 있다면 링크, 없다면 삭제]
+* **LinkedIn:** [링크드인 프로필이 있다면 링크, 없다면 삭제]
 
-<div align="center">
-  <sub>🔐 "The quieter you become, the more you are able to hear." — Kali Linux</sub>
-</div>
+---
+![KoKu-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoKu-3&show_icons=true&theme=transparent)
