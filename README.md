@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Badtz-Maru-3
+# 👋 Hi, I'm Badtz_ru-3
 
 보안에 관심을 가지고 열심히 공부하고 있는 학생입니다.
 
